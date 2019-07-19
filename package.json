@@ -1,0 +1,26 @@
+{
+  "name": "allex_leveldbstoragehelperslib",
+  "version": "1.0.0",
+  "description": "AllexJS helpers lib for leveldb-based storage libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/leveldbstoragehelpers.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "leveldb",
+    "storage",
+    "helpers",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/leveldbstoragehelpers/issues"
+  },
+  "homepage": "https://github.com/allex-libs/leveldbstoragehelpers#readme"
+}
